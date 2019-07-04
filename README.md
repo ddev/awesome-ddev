@@ -1,6 +1,8 @@
 # awesome-ddev
 A resource tracking DDEV-Local tips, tricks, solutions, blogs, and services
 
+Remember the [regular ddev docs](https://ddev.readthedocs.io) and [Stack Overflow](https://stackoverflow.com/tags/ddev) and [ddev-contrib](https://github.com/drud/ddev-contrib). [See support in the docs too](https://ddev.readthedocs.io/en/stable/#support).
+
 People all over the world are using the [DDEV-Local](https://github.com/drud/ddev) local development tool in incredibly creative ways. They're blogging about it, finding creative solutions to new challenges, inventing new approaches.
 
 This repository is a curated set of links to external resources regarding DDEV-Local.
@@ -37,6 +39,10 @@ Please don't be offended if your important link was initially left out, just do 
 ## Drupal Documentation
 
 * [Local Development Guide](https://www.drupal.org/docs/official_docs/en/_local_development_guide.html) Official Drupal.org local development info.
+
+## Sulu Documentation
+
+* [Base Sulu setup with ddev](https://github.com/nevercodealone/basesulu)
 
 ## TYPO3 Documentation
 
