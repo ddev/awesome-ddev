@@ -44,10 +44,11 @@ Please don't be offended if your important link was initially left out, just do 
 
 * [Base Sulu setup with ddev](https://github.com/nevercodealone/basesulu)
 
-## TYPO3 Documentation
+## TYPO3 Documentation and Presentations
 
 * [Setting up TYPO3 with DDEV](https://docs.typo3.org/m/typo3/guide-contributionworkflow/master/en-us/Appendix/SettingUpTypo3Ddev.html)
 * [DDEV TYPO3 Quickstart](https://ddev.readthedocs.io/en/latest/users/cli-usage/#typo3-quickstart)
+* [Local Development Environment for TYPO3 with DDEV](https://speakerdeck.com/peterkraume/local-development-environment-for-typo3-with-ddev) presentation by Peter Kraume, 2019-07-12
 
 ## Tips and Techniques
 
