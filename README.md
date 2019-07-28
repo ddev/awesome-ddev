@@ -54,6 +54,11 @@ Please don't be offended if your important link was initially left out, just do 
 ## Tips and Techniques
 
 
+## Tools
+
+* [vscode-ddev](https://github.com/SimonSiefke/vscode-ddev) (vscode ddev integration)
+
+
 ## Support Resources
 
 * [DDEV-Local docs](https://ddev.readthedocs.io/en/stable/)
