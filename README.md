@@ -21,6 +21,7 @@ Please don't be offended if your important link was initially left out, just do 
 
 ## Articles
 
+* [Set Up Linux DDEV Environments for WordPress and Drupal](https://www.ostraining.com/blog/tools/setting-up-ddev-in-linux/) (Jorge Montoya). Great step-by-step for Linux users including the Docker install and post-install steps.
 * [Sharing your DDEV-Local site via a public URL using "ddev share" and ngrok](https://www.drupaleasy.com/blogs/ultimike/2019/06/sharing-your-ddev-local-site-public-url-using-ddev-share-and-ngrok) (@ultimike, 2019-07-01)
 * [Tools with Friendly Learning Curve: ddev](https://www.gizra.com/content/friendly-tools-ddev/?utm_campaign=coschedule&utm_source=twitter&utm_medium=webwashnet) (Aron Novak, 2019-06-12)
 * [Migrating from Drupal 6 to Drupal 8 Like a Boss](https://dev.acquia.com/blog/migrating-drupal-6-drupal-8-boss) (Alex Moreno Lopez, 2019-05-10). This gives a great discussion of how two ddev projects can communicate and access each other's database servers, making migrations easy.
