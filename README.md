@@ -42,9 +42,14 @@ Please don't be offended if your important link was initially left out, just do 
 * [Local Development Guide](https://www.drupal.org/docs/official_docs/en/_local_development_guide.html) Official Drupal.org local development info.
 * [Drupal Commerce Quickstart with ddev](https://docs.drupalcommerce.org/commerce2/developer-guide/install-update/quick-start)
 
+## Mautic Documentation
+
+* [Local Mautic development with DDEV](https://www.mautic.org/blog/developer/local-mautic-development-with-ddev)
+
 ## Sulu Documentation
 
-* [Base Sulu setup with ddev](https://github.com/nevercodealone/basesulu)
+* [Sulu CMS Tutorial - Setup with DDEV - Part 1 - Docker and Symfony Content Management System](https://www.youtube.com/watch?time_continue=1&v=w8ZU6aksbrc)
+* [Base Sulu setup with ddev](https://github.com/nevercodealone/basesulu), youtube demo by @nevercodealone.
 
 ## TYPO3 Documentation and Presentations
 
