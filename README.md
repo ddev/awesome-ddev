@@ -48,7 +48,7 @@ Please don't be offended if your important link was initially left out, just do 
 
 ## Sulu Documentation
 
-* [Sulu CMS Tutorial - Setup with DDEV - Part 1 - Docker and Symfony Content Management System](https://www.youtube.com/watch?time_continue=1&v=w8ZU6aksbrc)
+* Sulu CMS Tutorial - Setup with DDEV - Docker and Symfony Content Management System  [Part 1](https://www.youtube.com/watch?time_continue=1&v=w8ZU6aksbrc), [Part 2](https://www.youtube.com/watch?v=pxBr_sp5gWk)
 * [Base Sulu setup with ddev](https://github.com/nevercodealone/basesulu), youtube demo by @nevercodealone.
 
 ## TYPO3 Documentation and Presentations
