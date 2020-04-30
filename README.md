@@ -14,7 +14,7 @@ Please don't be offended if your important link was initially left out, just do 
 ## Books
 
 * [Local Web Development with DDEV Explained](https://www.amazon.com/Local-Development-Explained-Step-Step/dp/1731048858/ref=tmm_pap_swatch_0) (Michael Anello, regularly updated)
-* [Book Review of *Local Web Development*](https://www.therussianlullaby.com/blog/books-local-web-development-with-ddev-explained/) ([@davidjguru](https://github.com/davidjguru))
+* [Book Review of *Local Web Development*](https://www.therussianlullaby.com/blog/books-local-web-development-with-ddev-explained/), ([@davidjguru](https://github.com/davidjguru))
 
 
 ## Training
@@ -24,8 +24,8 @@ Please don't be offended if your important link was initially left out, just do 
 ## Articles
 
 * [Deploying your DDEV containers in digitalocean (or aws) with kubernetes](https://medium.com/@alejandromoreno/deploying-your-ddev-containers-in-digitalocean-or-aws-with-kubernetes-507df41b4816?) [@alex-moreno](https://github.com/alex-moreno)
-* [Docker, Docker-Compose and DDEV - Cheatsheet](https://www.therussianlullaby.com/blog/docker-docker-compose-and-ddev-cheatsheet/)  [@davidjguru](https://github.com/davidjguru)
-* [Creating development environments for Drupal with DDEV](https://www.therussianlullaby.com/blog/creating-development-environments-for-drupal-with-ddev/) [@davidjguru](https://github.com/davidjguru)
+* [Docker, Docker-Compose and DDEV - Cheatsheet](https://www.therussianlullaby.com/blog/docker-docker-compose-and-ddev-cheatsheet/), ([@davidjguru](https://github.com/davidjguru))
+* [Creating development environments for Drupal with DDEV](https://www.therussianlullaby.com/blog/creating-development-environments-for-drupal-with-ddev/), ([@davidjguru](https://github.com/davidjguru))
 * [Set Up Linux DDEV Environments for WordPress and Drupal](https://www.ostraining.com/blog/tools/setting-up-ddev-in-linux/) (Jorge Montoya). Great step-by-step for Linux users including the Docker install and post-install steps.
 * [Sharing your DDEV-Local site via a public URL using "ddev share" and ngrok](https://www.drupaleasy.com/blogs/ultimike/2019/06/sharing-your-ddev-local-site-public-url-using-ddev-share-and-ngrok) (@ultimike, 2019-07-01)
 * [Tools with Friendly Learning Curve: ddev](https://www.gizra.com/content/friendly-tools-ddev/?utm_campaign=coschedule&utm_source=twitter&utm_medium=webwashnet) (Aron Novak, 2019-06-12)
