@@ -82,6 +82,10 @@ Please don't be offended if your important link was initially left out, just do 
 * [Local Development Environment for TYPO3 with DDEV](https://speakerdeck.com/peterkraume/local-development-environment-for-typo3-with-ddev) presentation by Peter Kraume, 2019-07-12
 * Customize DDEV for TYPO3 [Deutsch](https://www.thomaskieslich.de/blog/139-ddev-fuer-typo3-anpassen/) or [English](https://www.thomaskieslich.de/blog/143-customize-ddev-for-typo3/)  blog following presentation by Thomas Kieslich at TYPO3 Camp Mitteldeutschland 2020
 
+## Laravel
+
+* [Running Laravel Dusk tests with Docker using DDEV](https://blog.michaelbrooks.dev/running-laravel-dusk-with-docker-using-ddev/)
+
 ## Recipes
 
 * [Acquia BLT integration with ddev](https://github.com/lcatlett/blt-ddev) (maintained by @lcatlett)
