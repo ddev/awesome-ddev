@@ -84,6 +84,7 @@ Please don't be offended if your important link was initially left out, just do 
 
 ## Laravel
 
+* [Easy PHP (Laravel, Symfony) Development with Docker using DDEV](https://blog.michaelbrooks.dev/easy-laravel-development-with-docker-using-ddev/)
 * [Running Laravel Dusk tests with Docker using DDEV](https://blog.michaelbrooks.dev/running-laravel-dusk-with-docker-using-ddev/)
 
 ## Recipes
