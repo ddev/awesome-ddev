@@ -23,6 +23,7 @@ Please don't be offended if your important link was initially left out, just do 
 
 ## Articles
 
+* [Quick profiling with Blackfire.io and DDEV](https://medium.com/@tarekdj/quick-profiling-with-blackfire-io-and-ddev-e14e37083100) (2020-07-21)
 * [Deploying your DDEV containers in digitalocean (or aws) with kubernetes](https://medium.com/@alejandromoreno/deploying-your-ddev-containers-in-digitalocean-or-aws-with-kubernetes-507df41b4816?) [@alex-moreno](https://github.com/alex-moreno)
 * [Docker, Docker-Compose and DDEV - Cheatsheet](https://www.therussianlullaby.com/blog/docker-docker-compose-and-ddev-cheatsheet/), ([@davidjguru](https://github.com/davidjguru))
 * [Creating development environments for Drupal with DDEV](https://www.therussianlullaby.com/blog/creating-development-environments-for-drupal-with-ddev/), ([@davidjguru](https://github.com/davidjguru))
