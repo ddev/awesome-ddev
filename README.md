@@ -23,6 +23,8 @@ Please don't be offended if your important link was initially left out, just do 
 
 ## Articles
 
+* [Building an automated DDEV-based Drupal environment](https://mariohernandez.io/blog/building-an-automated-ddev-based-drupal-environment) (@mario 2020-06-29)
+* [Quick profiling with Blackfire.io and DDEV](https://medium.com/@tarekdj/quick-profiling-with-blackfire-io-and-ddev-e14e37083100) (2020-07-21)
 * [Deploying your DDEV containers in digitalocean (or aws) with kubernetes](https://medium.com/@alejandromoreno/deploying-your-ddev-containers-in-digitalocean-or-aws-with-kubernetes-507df41b4816?) [@alex-moreno](https://github.com/alex-moreno)
 * [Docker, Docker-Compose and DDEV - Cheatsheet](https://www.therussianlullaby.com/blog/docker-docker-compose-and-ddev-cheatsheet/), ([@davidjguru](https://github.com/davidjguru))
 * [Creating development environments for Drupal with DDEV](https://www.therussianlullaby.com/blog/creating-development-environments-for-drupal-with-ddev/), ([@davidjguru](https://github.com/davidjguru))
@@ -81,6 +83,11 @@ Please don't be offended if your important link was initially left out, just do 
 * [DDEV TYPO3 Quickstart](https://ddev.readthedocs.io/en/latest/users/cli-usage/#typo3-quickstart)
 * [Local Development Environment for TYPO3 with DDEV](https://speakerdeck.com/peterkraume/local-development-environment-for-typo3-with-ddev) presentation by Peter Kraume, 2019-07-12
 * Customize DDEV for TYPO3 [Deutsch](https://www.thomaskieslich.de/blog/139-ddev-fuer-typo3-anpassen/) or [English](https://www.thomaskieslich.de/blog/143-customize-ddev-for-typo3/)  blog following presentation by Thomas Kieslich at TYPO3 Camp Mitteldeutschland 2020
+
+## Laravel
+
+* [Easy PHP (Laravel, Symfony) Development with Docker using DDEV](https://blog.michaelbrooks.dev/easy-laravel-development-with-docker-using-ddev/)
+* [Running Laravel Dusk tests with Docker using DDEV](https://blog.michaelbrooks.dev/running-laravel-dusk-with-docker-using-ddev/)
 
 ## Recipes
 
