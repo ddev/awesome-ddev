@@ -49,6 +49,18 @@ Please don't be offended if your important link was initially left out, just do 
 
 ## Articles on ddev.com
 
+* [Watch: DDEV-Local from Scratch with macOS](https://ddev.com/ddev-local/watch-ddev-local-from-scratch-with-macos/) - screencast starting from nothing and getting all the way to using DDEV-Local (@rfay, 2020-08-13)
+* [Watch: DDEV-Local from Scratch with Windows WSL2](https://ddev.com/ddev-local/watch-ddev-local-from-scratch-with-windows-wsl2/) - screencast showing how to set up WSL2, then DDEV-Local, and including how to use DDEV. (@rfay, 2020-08-06)
+* [What's So Different About DDEV-Local](https://ddev.com/ddev-local/whats-so-different-about-ddev-local/) - explaining what differentiates DDEV-Local from other local development solutions. (@rfay, 2020-06-23)
+* [DDEV-Local and PHPStorm Debugging with WSL2](https://ddev.com/ddev-local/ddev-local-and-phpstorm-debugging-with-wsl2/) (@rfay, 2020-06-17)
+* [DDEV ❤️ WSL2: getting started](https://ddev.com/ddev-local/ddev-wsl2-getting-started/) ([@dennisameling](https://github.com/dennisameling), 2020-05-26)
+* [DDEV-Local Usage Statistics](https://ddev.com/ddev-local/ddev-local-usage-statistics-updated-2020-05-18/) (@rfay, 2020-05-19)
+* [Open Source Collaboration: Signing Tools for macOS Catalina](https://ddev.com/ddev-local/open-source-collaboration-signing-tools-for-macos-catalina/) (@rfay, 2020-05-13)
+* [DDEV, Docker, Chromebook!](https://ddev.com/ddev-local/ddev-docker-chromebook/) (@rfay, 2020-05-04)
+* [Controlling CMS Settings FIles in DDEV-Local](https://ddev.com/ddev-local/controlling-cms-settings-files-in-ddev-local/) (@rfay, 2020-04-16)
+* [Customizing DDEV-Local Images with a Custom Dockerfile](https://ddev.com/ddev-local/customizing-ddev-local-images-with-a-custom-dockerfile/) (@rfay, 2020-04-07)
+* [DDEV-Local Database Management](https://ddev.com/ddev-local/ddev-local-database-management/) (@rfay, 2020-04-03)
+* [Ten More Ways to Increase Your Efficiency with DDEV-Local](https://ddev.com/ddev-local/ten-more-ways-to-increase-your-efficiency-with-ddev-local/) (@rfay, 2020-03-25)
 * [Sharing a DDEV-Local project with other collaborators](https://ddev.com/ddev-local/sharing-a-ddev-local-project-with-other-collaborators/) (@rfay, 2020-03-17)
 * [Apache Solr with Drupal 8 and Search API Solr](https://ddev.com/ddev-local/apache-solr-with-drupal-8-and-search-api-solr/) (@rfay 2019-12-19)
 * [How to use DDEV custom commands and other goodies to add zsh](https://ddev.com/ddev-local/oh-my-zsh-using-custom-commands-and-other-goodies-to-add-to-ddev/) (@rfay 2019-08-13)
@@ -62,10 +74,11 @@ Please don't be offended if your important link was initially left out, just do 
 * [Debugging Docker on Windows, Mac, and Linux](https://ddev.com/ddev-local/debugging-docker-on-windows-mac-and-linux/) (@rfay 2018-10-18)
 
 
-## Drupal Documentation
+## Drupal Documentation and Presentations
 
 * [Local Development Guide](https://www.drupal.org/docs/official_docs/en/_local_development_guide.html) Official Drupal.org local development info.
 * [Drupal Commerce Quickstart with ddev](https://docs.drupalcommerce.org/commerce2/developer-guide/install-update/quick-start)
+* [Drupal Test Writing](https://github.com/WidgetsBurritos/drupal-test-writing) full repository using DDEV-Local with Behat, Chromedriver, PHPUnit.
 
 ## Mautic Documentation
 
@@ -100,6 +113,13 @@ Please don't be offended if your important link was initially left out, just do 
 
 ## Tips and Techniques
 
+## Github Actions
+
+* [Github Actrions Setup DDEV](https://github.com/jonaseberle/github-action-setup-ddev) (@jonaseberle)
+
+## Composer 
+
+* [Composer-ddev](https://git.4viewture.eu/ddev): Use composer to customize DDEV-Local projects (@kaystrobach)
 
 ## Tools
 
