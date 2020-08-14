@@ -115,7 +115,7 @@ Please don't be offended if your important link was initially left out, just do 
 
 ## Github Actions
 
-* [Github Actrions Setup DDEV](https://github.com/jonaseberle/github-action-setup-ddev) (@jonaseberle)
+* [Github action](https://github.com/jonaseberle/github-action-setup-ddev) (Jonas Eberle) start your ddev project inside a Github action (e.g. for acceptance testing)
 
 ## Composer 
 
@@ -124,7 +124,6 @@ Please don't be offended if your important link was initially left out, just do 
 ## Tools
 
 * [vscode-ddev](https://github.com/SimonSiefke/vscode-ddev) (vscode ddev integration)
-* [Github action](https://github.com/jonaseberle/github-action-setup-ddev) (Jonas Eberle) start your ddev project inside a Github action (e.g. for acceptance testing)
 
 
 ## Support Resources
