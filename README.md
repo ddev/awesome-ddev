@@ -23,6 +23,7 @@ Please don't be offended if your important link was initially left out, just do 
 
 ## Articles
 
+* [Creating a custom PHPUnit command for DDEV](https://www.oliverdavies.uk/blog/creating-custom-phpunit-command-ddev) ([@opdavies](https://github.com/opdavies), 2020-08-28)
 * [Installing / Developing Shopware 6 with ddev](https://susi.dev/ddev-shopware-6) ([@susannemoog](https://susi.dev/), 2020-07-20)
 * [Fully integrate DDEV and PHPStorm - including Unit Tests with Coverage](https://susi.dev/ddev-phpstorm-integration) (@susannemoog, 2020-08-22)
 * [Digital Ocean: How to Develop a Drupal 9 Website on Your Local Machine Using Docker and DDEV](https://www.digitalocean.com/community/tutorials/how-to-develop-a-drupal-9-website-on-your-local-machine-using-docker-and-ddev), (2020-08-12, [@davidjguru](https://github.com/davidjguru))  
