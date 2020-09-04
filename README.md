@@ -52,6 +52,7 @@ Please don't be offended if your important link was initially left out, just do 
 
 ## Articles on ddev.com
 
+* [Watch: DDEV-Local, PhpStorm, and Xdebug Debugging](https://ddev.com/ddev-local/ddev-local-phpstorm-and-xdebug-debugging/) (@rfay, 2020-08-27)
 * [Watch: DDEV-Local from Scratch with macOS](https://ddev.com/ddev-local/watch-ddev-local-from-scratch-with-macos/) - screencast starting from nothing and getting all the way to using DDEV-Local (@rfay, 2020-08-13)
 * [Watch: DDEV-Local from Scratch with Windows WSL2](https://ddev.com/ddev-local/watch-ddev-local-from-scratch-with-windows-wsl2/) - screencast showing how to set up WSL2, then DDEV-Local, and including how to use DDEV. (@rfay, 2020-08-06)
 * [What's So Different About DDEV-Local](https://ddev.com/ddev-local/whats-so-different-about-ddev-local/) - explaining what differentiates DDEV-Local from other local development solutions. (@rfay, 2020-06-23)
@@ -79,6 +80,7 @@ Please don't be offended if your important link was initially left out, just do 
 
 ## Drupal Documentation and Presentations
 
+* [Drupal Mexico presentation about DDEV-Local](https://drupalmexico.com/blog/se-presento-ddev) (video, en español), (2020-08)
 * [Local Development Guide](https://www.drupal.org/docs/official_docs/en/_local_development_guide.html) Official Drupal.org local development info.
 * [Drupal Commerce Quickstart with ddev](https://docs.drupalcommerce.org/commerce2/developer-guide/install-update/quick-start)
 * [Drupal Test Writing](https://github.com/WidgetsBurritos/drupal-test-writing) full repository using DDEV-Local with Behat, Nightwatch.js, Chromedriver, PHPUnit.
