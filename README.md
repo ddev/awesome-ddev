@@ -23,6 +23,7 @@ Please don't be offended if your important link was initially left out, just do 
 
 ## Articles
 
+* [Simplifying Your Workflow: Getting Started with DDEV](https://www.tag1consulting.com/blog/simplifying-your-workflow-getting-started-ddev) (@gchaix, 2020-09-14)
 * [Creating a custom PHPUnit command for DDEV](https://www.oliverdavies.uk/blog/creating-custom-phpunit-command-ddev) ([@opdavies](https://github.com/opdavies), 2020-08-28)
 * [Installing / Developing Shopware 6 with ddev](https://susi.dev/ddev-shopware-6) ([@susannemoog](https://susi.dev/), 2020-07-20)
 * [Fully integrate DDEV and PHPStorm - including Unit Tests with Coverage](https://susi.dev/ddev-phpstorm-integration) (@susannemoog, 2020-08-22)
