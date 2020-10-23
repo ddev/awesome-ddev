@@ -54,6 +54,10 @@ Please don't be offended if your important link was initially left out, just do 
 * [Using multiple SOLR cores with DDEV](https://glamanate.com/blog/using-multiple-solr-cores-ddev) (Matt Glaman, 2018-09-21)
 * [Codeception Tests with DDEV and Selenium](https://dev.to/tomasnorre/codeception-ddev-selenium-docker-36kk) (Tomas Norre Mikkelsen, 2020-03-28)
 
+## Podcassts
+
+* [Interview with rfay about DDEV-Local by OSTraining](https://www.ostraining.com/blog/podcasting/randy-ddev/) 2019-02-05
+
 ## Articles on ddev.com
 
 * [Watch: DDEV-Local, PhpStorm, and Xdebug Debugging](https://ddev.com/ddev-local/ddev-local-phpstorm-and-xdebug-debugging/) (@rfay, 2020-08-27)
