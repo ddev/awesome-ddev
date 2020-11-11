@@ -23,6 +23,7 @@ Please don't be offended if your important link was initially left out, just do 
 
 ## Articles
 
+* [DDEV - Simplify Local Dev Environment](https://www.undpaul.de/en/blog/2020/11/10/ddev-simplify-local-dev-environment) ([@stBorchert](https://github.com/stborchert), 2020-11)
 * [Supervisor / "Pseudo Cron Jobs" in ddev](https://susi.dev/supervisor-ddev) ([@susi/susey/suzannemoog](https://susi.dev/) 2020-10-30)
 * [Add a New HTTP Port to a Container Using HTTP_EXPOSE in DDEV](https://www.solucionex.com/blog/anadir-un-nuevo-puerto-http-un-contenedor-usando-httpexpose-en-ddev) ([AÑADIR UN NUEVO PUERTO HTTP A UN CONTENEDOR USANDO HTTP_EXPOSE EN DDEV](https://www.solucionex.com/blog/anadir-un-nuevo-puerto-http-un-contenedor-usando-httpexpose-en-ddev), (2020-09-23)
 * [How to build a Drupal Commerce development environment](https://www.centarro.io/blog/how-build-drupal-commerce-development-environment) (@rszrama 2020-09-18)
