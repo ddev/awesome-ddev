@@ -76,7 +76,7 @@ Please don't be offended if your important link was initially left out, just do 
 * [Customizing DDEV-Local Images with a Custom Dockerfile](https://ddev.com/ddev-local/customizing-ddev-local-images-with-a-custom-dockerfile/) (@rfay, 2020-04-07)
 * [DDEV-Local Database Management](https://ddev.com/ddev-local/ddev-local-database-management/) (@rfay, 2020-04-03)
 * [Ten More Ways to Increase Your Efficiency with DDEV-Local](https://ddev.com/ddev-local/ten-more-ways-to-increase-your-efficiency-with-ddev-local/) (@rfay, 2020-03-25)
-* [Sharing a DDEV-Local project with other collaborators](https://ddev.com/ddev-local/sharing-a-ddev-local-project-with-other-collaborators/) (@rfay, 2020-03-17)
+* [DDEV Share: Sharing a DDEV-Local project with other collaborators](https://ddev.com/ddev-local/sharing-a-ddev-local-project-with-other-collaborators/) (@rfay, 2020-03-17) (Includes local network and open-port sharing techniques as well as `ddev share`.)
 * [Apache Solr with Drupal 8 and Search API Solr](https://ddev.com/ddev-local/apache-solr-with-drupal-8-and-search-api-solr/) (@rfay 2019-12-19)
 * [How to use DDEV custom commands and other goodies to add zsh](https://ddev.com/ddev-local/oh-my-zsh-using-custom-commands-and-other-goodies-to-add-to-ddev/) (@rfay 2019-08-13)
 * [DDEV-Local Web Container Customization in v1.8.0](https://ddev.com/ddev-local/ddev-local-web-container-customization-in-v1-8-0/) (@rfay 2019-06-03)
