@@ -65,6 +65,9 @@ Please don't be offended if your important link was initially left out, just do 
 
 ## Articles on ddev.com
 
+* [How to upgrade WordPress with DDEV: from local development to production](https://www.ddev.com/ddev-live/how-to-upgrade-wordpress-with-ddev-from-local-development-to-production/) (Jed Darrohn, 2021-01-14)
+* [Why use DDEV-Local instead of rolling your own Docker-based local dev solution?](https://www.ddev.com/ddev-local/why-use-ddev-local-instead-of-rolling-your-own-docker-based-local-dev-solution/) (@rfay, 2020-12-28)
+* [Watch: DDEV-Local New Casual Webhosting Feature](https://www.ddev.com/ddev-local/watch-ddev-local-new-casual-webhosting-feature/) (@rfay, 2020-12-14)
 * [Moving CMS sites around (server-to-server, server-to-local, local-to-server)](https://www.ddev.com/ddev-live/moving-cms-sites-around-local-servers/) (@rfay, 2020-12-08)
 * [Watch: DDEV-Local on ARM64 Raspberry Pi](https://www.ddev.com/ddev-local/watch-ddev-local-on-arm64-raspberry-pi/)
 * [ARM64! Apple Silicon! M1! DDEV-Local! What does it all mean?](https://www.ddev.com/ddev-local/arm64-apple-silicon-m1-ddev-local-what-does-it-all-mean/) (@rfay, 2020-11-18)
