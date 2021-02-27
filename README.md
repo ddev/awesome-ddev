@@ -124,6 +124,7 @@ Please don't be offended if your important link was initially left out, just do 
 
 ## Laravel
 
+* [Laravel 8 Development with DDEV using the configuration from Laravel Sail](https://www.oblongobjects.com/blog/laravel-8-with-ddev-php-8) ([@jdarrohn](https://github.com/jdarrohn)
 * [Easy PHP (Laravel, Symfony) Development with Docker using DDEV](https://blog.michaelbrooks.dev/easy-laravel-development-with-docker-using-ddev/)
 * [Running Laravel Dusk tests with Docker using DDEV](https://blog.michaelbrooks.dev/running-laravel-dusk-with-docker-using-ddev/)
 
