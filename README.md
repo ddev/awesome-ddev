@@ -48,8 +48,6 @@ Please don't be offended if your important link was initially left out, just do 
 * [Migrating from Drupal 6 to Drupal 8 Like a Boss](https://dev.acquia.com/blog/migrating-drupal-6-drupal-8-boss) ([@alex-moreno](https://github.com/alex-moreno), 2019-05-10). This gives a great discussion of how two ddev projects can communicate and access each other's database servers, making migrations easy.
 * [BLT and DDEV -- Together!](https://dev.acquia.com/blog/blt-and-ddev-together) (Alex Moreno Lopez, 2019-03-19)
 * [Grav: Local Development with ddev](https://learn.getgrav.org/15/webservers-hosting/local-development-with-ddev) ddev can be used for nearly any CMS or web environment; this is an example of using it for [Grav](https://getgrav.org/), a CMS that doesn't have explicit ddev support.
-* [Trying out DDEV PHP Development Environment Tools](https://www.monarchdigital.com/blog/2018-07-09/trying-out-ddev-php-development-environment-tools) (mwilliams, 2018-07-09)
-* [Using DDEV to Set Up A Drupal 7 Multisite Installation](https://www.monarchdigital.com/blog/2018-09-18/use-ddev-set-drupal-7-multisite-installation) (mwilliams, 2018-09-18)
 * [DDEV-Local Web Container Customization](https://www.drud.com/ddev-local/ddev-local-web-container-customization-in-v1-8-0/) (rfay, 2019-06-03)
 * [DDEV-Local Trusted HTTPS Certificates](https://www.drud.com/ddev-local/ddev-local-trusted-https-certificates/) (rfay, 2019-05-23)
 * [Using DDEV to Teach Open Source Web Development](https://www.drud.com/ddev-local/using-ddev-to-teach-open-source-web-development/) (Heather McNamee, 2019-02-26)
@@ -66,6 +64,7 @@ Please don't be offended if your important link was initially left out, just do 
 
 ## Articles on ddevhq.org
 
+* [Supercharge your DDEV Performance with Mutagen](https://ddev.com/ddev-local/supercharge-your-ddev-performance-with-mutagen/) (@rfay, 2021=07-28)
 * [Why use DDEV-Local instead of rolling your own Docker-based local dev solution?](https://ddev.com/ddev-local/why-use-ddev-local-instead-of-rolling-your-own-docker-based-local-dev-solution/) (@rfay, 2020-12-28)
 * [Watch: DDEV-Local New Casual Webhosting Feature](https://ddev.com/ddev-local/watch-ddev-local-new-casual-webhosting-feature/) (@rfay, 2020-12-14)
 * [Moving CMS sites around (server-to-server, server-to-local, local-to-server)](https://ddev.com/ddev-live/moving-cms-sites-around-local-servers/) (@rfay, 2020-12-08)
