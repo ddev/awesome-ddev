@@ -135,6 +135,10 @@ Please don't be offended if your important link was initially left out, just do 
 
 * [DDEV Tips and Tricks](https://youtu.be/A5qH8RzgiF0) (rfay) from Drupalcamp Colorado 2019 ([slides](https://docs.google.com/presentation/d/1_BForqnABTJLoGYCotZ8MYOYL3wU_WmgojwhJ4mZg6k/edit?usp=sharing))
 
+## Cloud-based Solutions
+
+* [DrupalPod](https://www.drupalpod.com) (@shaal) - Start Drupal contributions with 1 click.
+
 ## Tips and Techniques
 
 ## Github Actions
