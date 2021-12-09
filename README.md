@@ -149,12 +149,13 @@ Please don't be offended if your important link was initially left out, just do 
 
 * [Github action](https://github.com/jonaseberle/github-action-setup-ddev) (Jonas Eberle) start your ddev project inside a Github action (e.g. for acceptance testing)
 
-## Composer 
+## Composer
 
 * [Composer-ddev](https://git.4viewture.eu/ddev): Use composer to customize DDEV-Local projects (@kaystrobach)
 
 ## Tools
 
+* [ddev-gitpod-launcher](https://github.com/drud/ddev-gitpod-launcher) (Launch and develop any web project in gitpod using ddev)
 * [vscode-ddev](https://github.com/SimonSiefke/vscode-ddev) (vscode ddev integration)
 * [DDEV VSCode DevContainer Drupal 9 Template](https://github.com/webksde/ddev-vscode-devcontainer-drupal9-template): DDEV VSCode Drupal Development Container: "Start a Drupal VSCode Development Environment with Drupal VSCode Extensions, PHPUnit, XDebug, PHPCS and many more in one command! No more configuration."
 
