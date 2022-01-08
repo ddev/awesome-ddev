@@ -23,6 +23,7 @@ Please don't be offended if your important link was initially left out, just do 
 
 ## Articles
 
+* [Install Wordpress Quickly With DDEV (German: Mal eben schnell mit ddev Wordpress installieren))](https://muench.dev/post/2021/12/mal-eben-schnell-mit-ddev-wordpress-installieren/). [Christian Münch](https://muench.dev/ueber-mich/), 2021-12-29.
 * [DDEV WP Pusher](https://github.com/mandrasch/ddev-wp-groundstation) WordPress Starter Kit with provider integration and workflow. [Matthias Andrasch](https://github.com/mandrasch), 2022.
 * [Use case: Magento 2 local development and GitHub actions](https://okaeli.com/en/blog/ddev-and-magento-2) (Julien Loizelet, 2022-01-08). French version [here](https://okaeli.com/fr/blog/ddev-et-magento-2).
 * [Instalación de DDEV y despliegue de proyecto Drupal 9 en Ubuntu 20.04](https://dev.to/daniconil/instalacion-de-ddev-y-despliegue-de-proyecto-drupal-9-en-ubuntu-2004-236) (Daniel M, 2021-12-04)
