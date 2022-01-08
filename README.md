@@ -23,6 +23,7 @@ Please don't be offended if your important link was initially left out, just do 
 
 ## Articles
 
+* [Use case: Magento 2 local development and GitHub actions](https://okaeli.com/en/blog/ddev-and-magento-2) (Julien Loizelet, 2022-01-08). French version [here](https://okaeli.com/fr/blog/ddev-et-magento-2).
 * [Instalación de DDEV y despliegue de proyecto Drupal 9 en Ubuntu 20.04](https://dev.to/daniconil/instalacion-de-ddev-y-despliegue-de-proyecto-drupal-9-en-ubuntu-2004-236) (Daniel M, 2021-12-04)
 * [DDEV & WordPress (CLI) – clone a live site to your local laptop](https://matthias-andrasch.eu/blog/2021/ddev-wordpress-cli-clone-a-live-site-to-your-local-laptop/) with accompanying [YouTube tutorial](https://www.youtube.com/watch?v=VsPXS4WMkXE) (Matthias Andrasch, 2021-10-10)
 * [Running and debugging PHPUnit tests in PHPStorm with DDev and xdebug](https://www.previousnext.com.au/blog/running-and-debugging-phpunit-tests-phpstorm-ddev-and-xdebug) ([@mstrelan](https://www.drupal.org/u/mstrelan), 2021-08-18)
