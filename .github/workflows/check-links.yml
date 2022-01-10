@@ -22,7 +22,7 @@ jobs:
         with:
           ruby-version: 2.6
 
-      - name: Check links in Mardown files
+      - name: Check links in Markdown files
         run: |
           gem install awesome_bot
           cd sources
