@@ -26,4 +26,4 @@ jobs:
         run: |
           gem install awesome_bot
           cd sources
-          awesome_bot README.md --skip-save-results
+          awesome_bot README.md --skip-save-results --allow-dupe
