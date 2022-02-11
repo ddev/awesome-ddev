@@ -1,7 +1,7 @@
 # awesome-ddev
 A resource tracking DDEV-Local tips, tricks, solutions, blogs, and services
 
-Remember the [regular ddev docs](https://ddev.readthedocs.io) and [Stack Overflow](https://stackoverflow.com/tags/ddev) and [ddev-contrib](https://github.com/drud/ddev-contrib). [See support in the docs too](https://ddev.readthedocs.io/en/stable/#support).
+Remember the [regular ddev docs](https://ddev.readthedocs.io/en/stable/) and [Stack Overflow](https://stackoverflow.com/tags/ddev) and [ddev-contrib](https://github.com/drud/ddev-contrib). [See support in the docs too](https://ddev.readthedocs.io/en/stable/#support).
 
 People all over the world are using the [DDEV-Local](https://github.com/drud/ddev) local development tool in incredibly creative ways. They're blogging about it, finding creative solutions to new challenges, inventing new approaches.
 
@@ -13,7 +13,7 @@ Please don't be offended if your important link was initially left out, just do 
 
 ## Books
 
-* [Local Web Development with DDEV Explained](https://www.amazon.com/Local-Development-Explained-Step-Step/dp/1731048858/ref=tmm_pap_swatch_0) (Michael Anello, regularly updated)
+* [Local Web Development with DDEV Explained](https://www.amazon.com/Local-Development-Explained-Step-Step/dp/1731048858) (Michael Anello, regularly updated)
 * [Book Review of *Local Web Development*](https://www.therussianlullaby.com/blog/books-local-web-development-with-ddev-explained/), ([@davidjguru](https://github.com/davidjguru))
 
 
@@ -30,22 +30,22 @@ Please don't be offended if your important link was initially left out, just do 
 * [Running and debugging PHPUnit tests in PHPStorm with DDev and xdebug](https://www.previousnext.com.au/blog/running-and-debugging-phpunit-tests-phpstorm-ddev-and-xdebug) ([@mstrelan](https://www.drupal.org/u/mstrelan), 2021-08-18)
 * [Debug any of Drupal's PHPUnit tests in PhpStorm with a DDEV-Local Environment](https://drupalize.me/blog/debug-any-drupals-phpunit-tests-phpstorm-ddev-local-environment) (@eojthebrave, 2021-08-04)
 * [Integrating DDEV-Local with Pantheon](https://www.youtube.com/watch?v=uochIVLwBL4)  (@mario 2021-07-02)
-* [Update 2021 - Fully integrate DDEV and PHPStorm - including Unit Tests with Coverage](https://susi.dev/fully-integrate-ddev-and-phpstorm-including-unit-tests-with-coverage-update-2021) ([@susi/susey/suzannemoog](https://susi.dev/) 2021-05-13)
+* [Update 2021 - Fully integrate DDEV and PHPStorm - including Unit Tests with Coverage](https://susi.dev/fully-integrate-ddev-and-phpstorm-including-unit-tests-with-coverage-update-2021/) ([@susi/susey/suzannemoog](https://susi.dev/) 2021-05-13)
 * [DDEV - Simplify Local Dev Environment](https://www.undpaul.de/en/blog/2020/11/10/ddev-simplify-local-dev-environment) ([@stBorchert](https://github.com/stborchert), 2020-11)
-* [Supervisor / "Pseudo Cron Jobs" in ddev](https://susi.dev/supervisor-ddev) ([@susi/susey/suzannemoog](https://susi.dev/) 2020-10-30)
+* [Supervisor / "Pseudo Cron Jobs" in ddev](https://susi.dev/supervisor-ddev/) ([@susi/susey/suzannemoog](https://susi.dev/) 2020-10-30)
 * [The Tale of Managing the Managed Elasticsearch](https://www.gizra.com/content/robo-elasticsearch/) ([@aronnovak](https://github.com/AronNovak) 2020-10-06)
 * [Add a New HTTP Port to a Container Using HTTP_EXPOSE in DDEV](https://www.solucionex.com/blog/anadir-un-nuevo-puerto-http-un-contenedor-usando-httpexpose-en-ddev) ([AÑADIR UN NUEVO PUERTO HTTP A UN CONTENEDOR USANDO HTTP_EXPOSE EN DDEV](https://www.solucionex.com/blog/anadir-un-nuevo-puerto-http-un-contenedor-usando-httpexpose-en-ddev), (2020-09-23)
 * [How to build a Drupal Commerce development environment](https://www.centarro.io/blog/how-build-drupal-commerce-development-environment) (@rszrama 2020-09-18)
 * [Quickly set up a local Craft CMS dev site with the DDEV development tool](https://blog.fortrabbit.com/local-craft-dev-site-ddev-development-tool) (2020-09-10)
-* [Schnellere und einheitlichere Magento-Projektentwicklung dank ddev](https://www.netz98.de/blog/entwicklung-news/ddev-magento/) English: [Faster and more uniform Magento project development thanks to ddev](https://translate.google.com/translate?sl=auto&tl=en&u=https://www.netz98.de/blog/entwicklung-news/ddev-magento/) ([@cmuench](https://github.com/cmuench) 2020-09-07)
+* [Schnellere und einheitlichere Magento-Projektentwicklung dank ddev](https://www.netz98.de/blog/entwicklung-news/ddev-magento/) English: [Faster and more uniform Magento project development thanks to ddev](https://www-netz98-de.translate.goog/blog/entwicklung-news/ddev-magento/?_x_tr_sl=auto&_x_tr_tl=en&_x_tr_hl=en-US) ([@cmuench](https://github.com/cmuench) 2020-09-07)
 * [Simplifying Your Workflow: Getting Started with DDEV](https://www.tag1consulting.com/blog/simplifying-your-workflow-getting-started-ddev) (@gchaix, 2020-09-14)
-* [Creating a custom PHPUnit command for DDEV](https://www.oliverdavies.uk/blog/creating-custom-phpunit-command-ddev) ([@opdavies](https://github.com/opdavies), 2020-08-28)
-* [Installing / Developing Shopware 6 with ddev](https://susi.dev/ddev-shopware-6) ([@susannemoog](https://susi.dev/), 2020-07-20)
-* [Fully integrate DDEV and PHPStorm - including Unit Tests with Coverage](https://susi.dev/ddev-phpstorm-integration) (@susannemoog, 2020-08-22)
+* [Creating a custom PHPUnit command for DDEV](https://www.oliverdavies.uk/blog/creating-custom-phpunit-command-ddev/) ([@opdavies](https://github.com/opdavies), 2020-08-28)
+* [Installing / Developing Shopware 6 with ddev](https://susi.dev/ddev-shopware-6/) ([@susannemoog](https://susi.dev/), 2020-07-20)
+* [Fully integrate DDEV and PHPStorm - including Unit Tests with Coverage](https://susi.dev/ddev-phpstorm-integration/) (@susannemoog, 2020-08-22)
 * [Digital Ocean: How to Develop a Drupal 9 Website on Your Local Machine Using Docker and DDEV](https://www.digitalocean.com/community/tutorials/how-to-develop-a-drupal-9-website-on-your-local-machine-using-docker-and-ddev), (2020-08-12, [@davidjguru](https://github.com/davidjguru))  
-* [Building an automated DDEV-based Drupal environment](https://mariohernandez.io/blog/building-an-automated-ddev-based-drupal-environment) (@mario 2020-06-29)
-* [Quick profiling with Blackfire.io and DDEV](https://medium.com/@tarekdj/quick-profiling-with-blackfire-io-and-ddev-e14e37083100) (2020-07-21)
-* [Deploying your DDEV containers in digitalocean (or aws) with kubernetes](https://medium.com/@alejandromoreno/deploying-your-ddev-containers-in-digitalocean-or-aws-with-kubernetes-507df41b4816?) [@alex-moreno](https://github.com/alex-moreno)
+* [Building an automated DDEV-based Drupal environment](https://mariohernandez.io/blog/building-an-automated-ddev-based-drupal-environment/) (@mario 2020-06-29)
+* [Quick profiling with Blackfire.io and DDEV](https://tarekdj.medium.com/quick-profiling-with-blackfire-io-and-ddev-e14e37083100) (2020-07-21)
+* [Deploying your DDEV containers in digitalocean (or aws) with kubernetes](https://alejandromoreno.medium.com/deploying-your-ddev-containers-in-digitalocean-or-aws-with-kubernetes-507df41b4816) [@alex-moreno](https://github.com/alex-moreno)
 * [Docker, Docker-Compose and DDEV - Cheatsheet](https://www.therussianlullaby.com/blog/docker-docker-compose-and-ddev-cheatsheet/), ([@davidjguru](https://github.com/davidjguru))
 * [Creating development environments for Drupal with DDEV](https://www.therussianlullaby.com/blog/creating-development-environments-for-drupal-with-ddev/), ([@davidjguru](https://github.com/davidjguru))
 * [Set Up Linux DDEV Environments for WordPress and Drupal](https://www.ostraining.com/blog/tools/setting-up-ddev-in-linux/) (Jorge Montoya). Great step-by-step for Linux users including the Docker install and post-install steps.
@@ -54,14 +54,14 @@ Please don't be offended if your important link was initially left out, just do 
 * [Migrating from Drupal 6 to Drupal 8 Like a Boss](https://dev.acquia.com/blog/migrating-drupal-6-drupal-8-boss) ([@alex-moreno](https://github.com/alex-moreno), 2019-05-10). This gives a great discussion of how two ddev projects can communicate and access each other's database servers, making migrations easy.
 * [BLT and DDEV -- Together!](https://dev.acquia.com/blog/blt-and-ddev-together) (Alex Moreno Lopez, 2019-03-19)
 * [Grav: Local Development with ddev](https://learn.getgrav.org/15/webservers-hosting/local-development-with-ddev) ddev can be used for nearly any CMS or web environment; this is an example of using it for [Grav](https://getgrav.org/), a CMS that doesn't have explicit ddev support.
-* [DDEV-Local Web Container Customization](https://www.drud.com/ddev-local/ddev-local-web-container-customization-in-v1-8-0/) (rfay, 2019-06-03)
-* [DDEV-Local Trusted HTTPS Certificates](https://www.drud.com/ddev-local/ddev-local-trusted-https-certificates/) (rfay, 2019-05-23)
-* [Using DDEV to Teach Open Source Web Development](https://www.drud.com/ddev-local/using-ddev-to-teach-open-source-web-development/) (Heather McNamee, 2019-02-26)
-* [Running Drupal's PHPUnit test suites on DDEV](https://glamanate.com/blog/running-drupals-phpunit-test-suites-ddev), (Matt Glaman, 2018-10-12)
-* [Running Drupal's FunctionalJavascript tests on DDEV](https://glamanate.com/blog/running-drupals-functionaljavascript-tests-ddev) (Matt Glaman, 2018-10-16)
-* [Running Drupal's Nightwatch test suite on DDEV](https://glamanate.com/blog/running-drupals-nightwatch-test-suite-ddev) (Matt Glaman, 2018-10-18)
-* [Xdebug over the command line with DDEV](https://glamanate.com/blog/xdebug-over-command-line-ddev) (Matt Glaman, 2018-09-24)
-* [Using multiple SOLR cores with DDEV](https://glamanate.com/blog/using-multiple-solr-cores-ddev) (Matt Glaman, 2018-09-21)
+* [DDEV-Local Web Container Customization](https://ddev.com/ddev-local/ddev-local-web-container-customization-in-v1-8-0/) (rfay, 2019-06-03)
+* [DDEV-Local Trusted HTTPS Certificates](https://ddev.com/ddev-local/ddev-local-trusted-https-certificates/) (rfay, 2019-05-23)
+* [Using DDEV to Teach Open Source Web Development](https://ddev.com/ddev-local/using-ddev-to-teach-open-source-web-development/) (Heather McNamee, 2019-02-26)
+* [Running Drupal's PHPUnit test suites on DDEV](https://mglaman.dev/blog/running-drupals-phpunit-test-suites-ddev), (Matt Glaman, 2018-10-12)
+* [Running Drupal's FunctionalJavascript tests on DDEV](https://mglaman.dev/blog/running-drupals-functionaljavascript-tests-ddev) (Matt Glaman, 2018-10-16)
+* [Running Drupal's Nightwatch test suite on DDEV](https://mglaman.dev/blog/running-drupals-nightwatch-test-suite-ddev) (Matt Glaman, 2018-10-18)
+* [Xdebug over the command line with DDEV](https://mglaman.dev/blog/xdebug-over-command-line-ddev) (Matt Glaman, 2018-09-24)
+* [Using multiple SOLR cores with DDEV](https://mglaman.dev/blog/using-multiple-solr-cores-ddev) (Matt Glaman, 2018-09-21)
 * [Codeception Tests with DDEV and Selenium](https://dev.to/tomasnorre/codeception-ddev-selenium-docker-36kk) (Tomas Norre Mikkelsen, 2020-03-28)
 
 ## Podcasts
@@ -122,14 +122,14 @@ Please don't be offended if your important link was initially left out, just do 
 
 * [Tutorial: Get a Local TYPO3 v10 Installation With No Effort!](https://typo3.com/blog/tutorial-get-a-local-typo3-v10-installation-with-no-effort) (@cybersmog)
 * [TYPO3 Performance: Exclude typo3temp directory from ddev to get more performance](https://gist.github.com/froemken/bfaf227ca24af09c4d378e4f4285ccc1) (@froemken)
-* [Setting up TYPO3 with DDEV](https://docs.typo3.org/m/typo3/guide-contributionworkflow/master/en-us/Appendix/SettingUpTypo3Ddev.html)
+* [Setting up TYPO3 with DDEV](https://docs.typo3.org/m/typo3/guide-contributionworkflow/main/en-us/Appendix/SettingUpTypo3Ddev.html)
 * [DDEV TYPO3 Quickstart](https://ddev.readthedocs.io/en/latest/users/cli-usage/#typo3-quickstart)
 * [Local Development Environment for TYPO3 with DDEV](https://speakerdeck.com/peterkraume/local-development-environment-for-typo3-with-ddev) presentation by Peter Kraume, 2019-07-12
 * Customize DDEV for TYPO3 [Deutsch](https://www.thomaskieslich.de/blog/139-ddev-fuer-typo3-anpassen/) or [English](https://www.thomaskieslich.de/blog/143-customize-ddev-for-typo3/)  blog following presentation by Thomas Kieslich at TYPO3 Camp Mitteldeutschland 2020
 
 ## Laravel
 
-* [Laravel 8 Development with DDEV using the configuration from Laravel Sail](https://www.oblongobjects.com/blog/laravel-8-with-ddev-php-8) ([@jdarrohn](https://github.com/jdarrohn)
+* [Laravel 8 Development with DDEV using the configuration from Laravel Sail](https://www.oblongobjects.com/blog/laravel-8-with-ddev-php-8/) (Jed Darrohn)
 * [Easy PHP (Laravel, Symfony) Development with Docker using DDEV](https://blog.michaelbrooks.dev/easy-laravel-development-with-docker-using-ddev/)
 * [Running Laravel Dusk tests with Docker using DDEV](https://blog.michaelbrooks.dev/running-laravel-dusk-with-docker-using-ddev/)
 
@@ -143,11 +143,11 @@ Please don't be offended if your important link was initially left out, just do 
 
 ## General Presentations
 
-* [DDEV Tips and Tricks](https://youtu.be/A5qH8RzgiF0) (rfay) from Drupalcamp Colorado 2019 ([slides](https://docs.google.com/presentation/d/1_BForqnABTJLoGYCotZ8MYOYL3wU_WmgojwhJ4mZg6k/edit?usp=sharing))
+* [DDEV Tips and Tricks](https://www.youtube.com/watch?v=A5qH8RzgiF0&feature=youtu.be) (rfay) from Drupalcamp Colorado 2019 ([slides](https://docs.google.com/presentation/d/1_BForqnABTJLoGYCotZ8MYOYL3wU_WmgojwhJ4mZg6k/edit?usp=sharing))
 
 ## Cloud-based Solutions
 
-* [DrupalPod](https://www.drupalpod.com) (@shaal) - Start Drupal contributions with 1 click.
+* [DrupalPod](https://github.com/shaal/DrupalPod) (@shaal) - Start Drupal contributions with 1 click.
 
 ## Tips and Techniques
 
@@ -170,7 +170,7 @@ Please don't be offended if your important link was initially left out, just do 
 * [DDEV-Local docs](https://ddev.readthedocs.io/en/stable/)
 * [ddev issue queue](https://github.com/drud/ddev/issues)
 * [Stack Overflow articles tagged with ddev](https://stackoverflow.com/tags/ddev)
-* [Drupal Slack #ddev channel](https://www.drupal.org/slack)
-* [TYPO3 Slack #ddev channel](https://my.typo3.org/index.php?id=35)
-* [Sulu Slack #ddev channel](https://sulu.io/en/contact)
+* [Drupal Slack #ddev channel](https://www.drupal.org/community/contributor-guide/reference-information/talk/tools/slack)
+* [TYPO3 Slack #ddev channel](https://login.typo3.com/auth/realms/TYPO3/protocol/openid-connect/auth?access_type=online&client_id=my-typo3-org&redirect_uri=https%3A%2F%2Fmy.typo3.org%2Foauth%2Fcallback&response_type=code&scope=openid+email+profile&state=cc3faa28-8944-4cfb-a7bc-2fa17fd96535)
+* [Sulu Slack #ddev channel](https://sulu.io/contact-us)
 * [Twitter #ddev](https://twitter.com/search?f=tweets&vertical=default&q=%23ddev&src=typd)
