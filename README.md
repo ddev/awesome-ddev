@@ -133,6 +133,10 @@ Please don't be offended if your important link was initially left out, just do 
 * [Easy PHP (Laravel, Symfony) Development with Docker using DDEV](https://blog.michaelbrooks.dev/easy-laravel-development-with-docker-using-ddev/)
 * [Running Laravel Dusk tests with Docker using DDEV](https://blog.michaelbrooks.dev/running-laravel-dusk-with-docker-using-ddev/)
 
+## Magento
+
+* [Magento 2 Demo Project](https://github.com/netz98/ddev-magento-demo), by netz98 GmbH
+
 ## Recipes
 
 * [Acquia BLT integration with ddev](https://github.com/lcatlett/blt-ddev) (maintained by @lcatlett)
