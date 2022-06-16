@@ -20,6 +20,7 @@ Please don't be offended if your important link was initially left out, just do 
 ## Training
 
 * [Professional Local Development with DDEV - 2 Hour Workshop](https://www.drupaleasy.com/ddev) (Mike Anello, regularly offered, regularly updated)
+* [Introduction to DDEV and Craft CMS](https://craftquest.io/courses/ddev-and-craft-cms-quick-start-guide/43386) on CraftQuest.io
 
 ## Articles
 
@@ -136,6 +137,10 @@ Please don't be offended if your important link was initially left out, just do 
 ## Magento
 
 * [Magento 2 Demo Project](https://github.com/netz98/ddev-magento-demo), by netz98 GmbH
+
+## Craft CMS
+
+* [A Craft CMS starter project using DDEV](https://github.com/onedarnleyroad/craftcms) for local hosting and Vite for front-end bundling and HM, by [One Darnley Road](https://www.onedarnleyroad.com/)
 
 ## Recipes
 
