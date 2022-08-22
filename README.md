@@ -49,11 +49,11 @@ Please don't be offended if your important link was initially left out, just do 
 * [Deploying your DDEV containers in digitalocean (or aws) with kubernetes](https://alejandromoreno.medium.com/deploying-your-ddev-containers-in-digitalocean-or-aws-with-kubernetes-507df41b4816) [@alex-moreno](https://github.com/alex-moreno)
 * [Docker, Docker-Compose and DDEV - Cheatsheet](https://www.therussianlullaby.com/blog/docker-docker-compose-and-ddev-cheatsheet/), ([@davidjguru](https://github.com/davidjguru))
 * [Creating development environments for Drupal with DDEV](https://www.therussianlullaby.com/blog/creating-development-environments-for-drupal-with-ddev/), ([@davidjguru](https://github.com/davidjguru))
-* [Set Up Linux DDEV Environments for WordPress and Drupal](https://www.ostraining.com/blog/tools/setting-up-ddev-in-linux/) (Jorge Montoya). Great step-by-step for Linux users including the Docker install and post-install steps.
+* [Set Up Linux DDEV Environments for WordPress and Drupal](https://ostraining.com/blog/tools-blog/setting-up-ddev-in-linux/) (Jorge Montoya). Great step-by-step for Linux users including the Docker install and post-install steps.
 * [Sharing your DDEV-Local site via a public URL using "ddev share" and ngrok](https://www.drupaleasy.com/blogs/ultimike/2019/06/sharing-your-ddev-local-site-public-url-using-ddev-share-and-ngrok) (@ultimike, 2019-07-01)
 * [Tools with Friendly Learning Curve: ddev](https://www.gizra.com/content/friendly-tools-ddev/?utm_campaign=coschedule&utm_source=twitter&utm_medium=webwashnet) (Aron Novak, 2019-06-12)
-* [Migrating from Drupal 6 to Drupal 8 Like a Boss](https://dev.acquia.com/blog/migrating-drupal-6-drupal-8-boss) ([@alex-moreno](https://github.com/alex-moreno), 2019-05-10). This gives a great discussion of how two ddev projects can communicate and access each other's database servers, making migrations easy.
-* [BLT and DDEV -- Together!](https://dev.acquia.com/blog/blt-and-ddev-together) (Alex Moreno Lopez, 2019-03-19)
+* [Migrating from Drupal 6 to Drupal 8 Like a Boss](https://dev.acquia.com/article/migrating-drupal-6-drupal-8-boss) ([@alex-moreno](https://github.com/alex-moreno), 2019-05-10). This gives a great discussion of how two ddev projects can communicate and access each other's database servers, making migrations easy.
+* [BLT and DDEV -- Together!](https://dev.acquia.com/article/blt-and-ddev-together) (Alex Moreno Lopez, 2019-03-19)
 * [Grav: Local Development with ddev](https://learn.getgrav.org/15/webservers-hosting/local-development-with-ddev) ddev can be used for nearly any CMS or web environment; this is an example of using it for [Grav](https://getgrav.org/), a CMS that doesn't have explicit ddev support.
 * [DDEV-Local Web Container Customization](https://ddev.com/ddev-local/ddev-local-web-container-customization-in-v1-8-0/) (rfay, 2019-06-03)
 * [DDEV-Local Trusted HTTPS Certificates](https://ddev.com/ddev-local/ddev-local-trusted-https-certificates/) (rfay, 2019-05-23)
@@ -67,14 +67,14 @@ Please don't be offended if your important link was initially left out, just do 
 
 ## Podcasts
 
-* [Interview with rfay about DDEV-Local by OSTraining](https://www.ostraining.com/blog/podcasting/randy-ddev/) 2019-02-05
+* [Interview with rfay about DDEV-Local by OSTraining](https://ostraining.com/blog/podcasting-blog/randy-ddev/) 2019-02-05
 
 ## Articles on ddevhq.org
 
 * [Supercharge your DDEV Performance with Mutagen](https://ddev.com/ddev-local/supercharge-your-ddev-performance-with-mutagen/) (@rfay, 2021=07-28)
 * [Why use DDEV-Local instead of rolling your own Docker-based local dev solution?](https://ddev.com/ddev-local/why-use-ddev-local-instead-of-rolling-your-own-docker-based-local-dev-solution/) (@rfay, 2020-12-28)
 * [Watch: DDEV-Local New Casual Webhosting Feature](https://ddev.com/ddev-local/watch-ddev-local-new-casual-webhosting-feature/) (@rfay, 2020-12-14)
-* [Moving CMS sites around (server-to-server, server-to-local, local-to-server)](https://ddev.com/ddev-live/moving-cms-sites-around-local-servers/) (@rfay, 2020-12-08)
+* [Moving CMS sites around (server-to-server, server-to-local, local-to-server)](https://ddev.com/ddev-local/moving-cms-sites-around-local-servers/) (@rfay, 2020-12-08)
 * [Watch: DDEV-Local on ARM64 Raspberry Pi](https://ddev.com/ddev-local/watch-ddev-local-on-arm64-raspberry-pi/)
 * [ARM64! Apple Silicon! M1! DDEV-Local! What does it all mean?](https://ddev.com/ddev-local/arm64-apple-silicon-m1-ddev-local-what-does-it-all-mean/) (@rfay, 2020-11-18)
 * [Watch: DDEV-Local, PhpStorm, and Xdebug Debugging](https://ddev.com/ddev-local/ddev-local-phpstorm-and-xdebug-debugging/) (@rfay, 2020-08-27)
@@ -117,14 +117,14 @@ Please don't be offended if your important link was initially left out, just do 
 ## Sulu Documentation
 
 * Sulu CMS Tutorial - Setup with DDEV - Docker and Symfony Content Management System  [Part 1](https://www.youtube.com/watch?time_continue=1&v=w8ZU6aksbrc), [Part 2](https://www.youtube.com/watch?v=pxBr_sp5gWk)
-* [Base Sulu setup with ddev](https://github.com/nevercodealone/basesulu), youtube demo by @nevercodealone.
+* [Base Sulu setup with ddev](https://nevercodealone.medium.com/sulu-cms-symfony-tutorial-with-ddev-5c213ec76cbb), YouTube demo by @nevercodealone.
 
 ## TYPO3 Documentation and Presentations
 
 * [Tutorial: Get a Local TYPO3 v10 Installation With No Effort!](https://typo3.com/blog/tutorial-get-a-local-typo3-v10-installation-with-no-effort) (@cybersmog)
 * [TYPO3 Performance: Exclude typo3temp directory from ddev to get more performance](https://gist.github.com/froemken/bfaf227ca24af09c4d378e4f4285ccc1) (@froemken)
 * [Setting up TYPO3 with DDEV](https://docs.typo3.org/m/typo3/guide-contributionworkflow/main/en-us/Appendix/SettingUpTypo3Ddev.html)
-* [DDEV TYPO3 Quickstart](https://ddev.readthedocs.io/en/latest/users/cli-usage/#typo3-quickstart)
+* [DDEV TYPO3 Quickstart](https://ddev.readthedocs.io/en/latest/users/quickstart/#typo3)
 * [Local Development Environment for TYPO3 with DDEV](https://speakerdeck.com/peterkraume/local-development-environment-for-typo3-with-ddev) presentation by Peter Kraume, 2019-07-12
 * Customize DDEV for TYPO3 [Deutsch](https://www.thomaskieslich.de/blog/139-ddev-fuer-typo3-anpassen/) or [English](https://www.thomaskieslich.de/blog/143-customize-ddev-for-typo3/)  blog following presentation by Thomas Kieslich at TYPO3 Camp Mitteldeutschland 2020
 
