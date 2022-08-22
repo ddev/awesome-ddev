@@ -157,9 +157,13 @@ Please don't be offended if your important link was initially left out, just do 
 
 ## Tips and Techniques
 
-## Github Actions
+## GitHub Actions
 
-* [Github action](https://github.com/jonaseberle/github-action-setup-ddev) (Jonas Eberle) start your ddev project inside a Github action (e.g. for acceptance testing)
+* [GitHub action](https://github.com/jonaseberle/github-action-setup-ddev) (Jonas Eberle) start your ddev project 
+  inside a GitHub action (e.g. for acceptance testing)
+* [Magento 2 installation with DDEV](https://github.com/julienloizelet/github-actions-magento2-ddev-installation/) 
+  (Julien Loizelet) Install a Magento 2 instance in your workflow with a ready-to-use DDEV setup (mainly for testing 
+  a module).
 
 ## Composer
 
