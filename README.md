@@ -137,6 +137,7 @@ Please don't be offended if your important link was initially left out, just do 
 ## Magento
 
 * [Magento 2 Demo Project](https://github.com/netz98/ddev-magento-demo), by netz98 GmbH
+* [Development environment for Magento 2 with DDEV](https://github.com/julienloizelet/ddev-m2) (Julien Loizelet)
 
 ## Craft CMS
 
