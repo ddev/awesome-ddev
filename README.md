@@ -24,6 +24,7 @@ Please don't be offended if your important link was initially left out, just do 
 
 ## Articles
 
+* [Use VS Code IDE inside a Docker container (DDEV and other)](https://korepov.pro/infobase/vs-code/23). [Alexey Murz Korepov](https://github.com/MurzNN), 2022-08-26.
 * [Install Wordpress Quickly With DDEV (German: Mal eben schnell mit ddev Wordpress installieren))](https://muench.dev/post/2021/12/mal-eben-schnell-mit-ddev-wordpress-installieren/). [Christian Münch](https://muench.dev/ueber-mich/), 2021-12-29.
 * [DDEV pull wp scripts - pull a WordPress site into DDEV and workflow for child theme management via git](https://github.com/mandrasch/ddev-pull-wp-scripts) with accompanying [demo video](https://www.youtube.com/watch?v=lEGL65H-hts). [Matthias Andrasch](https://github.com/mandrasch), 2022.
 * [Use case: Magento 2 local development and GitHub actions](https://okaeli.com/en/blog/ddev-and-magento-2) (Julien Loizelet, 2022-01-08). French version [here](https://okaeli.com/fr/blog/ddev-et-magento-2).
