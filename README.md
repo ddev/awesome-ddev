@@ -41,7 +41,7 @@ Please don't be offended if your important link was initially left out, just do 
 * [Quickly set up a local Craft CMS dev site with the DDEV development tool](https://blog.fortrabbit.com/local-craft-dev-site-ddev-development-tool) (2020-09-10)
 * [Schnellere und einheitlichere Magento-Projektentwicklung dank ddev](https://www.netz98.de/blog/entwicklung-news/ddev-magento/) English: [Faster and more uniform Magento project development thanks to ddev](https://www-netz98-de.translate.goog/blog/entwicklung-news/ddev-magento/?_x_tr_sl=auto&_x_tr_tl=en&_x_tr_hl=en-US) ([@cmuench](https://github.com/cmuench) 2020-09-07)
 * [Simplifying Your Workflow: Getting Started with DDEV](https://www.tag1consulting.com/blog/simplifying-your-workflow-getting-started-ddev) (@gchaix, 2020-09-14)
-* [Creating a custom PHPUnit command for DDEV](https://www.oliverdavies.uk/blog/creating-custom-phpunit-command-ddev/) ([@opdavies](https://github.com/opdavies), 2020-08-28)
+* [Creating a custom PHPUnit command for DDEV](https://www.oliverdavies.uk/blog/creating-custom-phpunit-command-ddev) ([@opdavies](https://github.com/opdavies), 2020-08-28)
 * [Installing / Developing Shopware 6 with ddev](https://susi.dev/ddev-shopware-6/) ([@susannemoog](https://susi.dev/), 2020-07-20)
 * [Fully integrate DDEV and PHPStorm - including Unit Tests with Coverage](https://susi.dev/ddev-phpstorm-integration/) (@susannemoog, 2020-08-22)
 * [Digital Ocean: How to Develop a Drupal 9 Website on Your Local Machine Using Docker and DDEV](https://www.digitalocean.com/community/tutorials/how-to-develop-a-drupal-9-website-on-your-local-machine-using-docker-and-ddev), (2020-08-12, [@davidjguru](https://github.com/davidjguru))  
