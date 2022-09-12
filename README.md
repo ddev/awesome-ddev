@@ -68,6 +68,7 @@ Please don't be offended if your important link was initially left out, just do 
 
 ## Podcasts
 
+* [devMode.fm DDEV for Local Development](https://devmode.fm/episodes/ddev-for-local-development) 2022-09-12
 * [Interview with rfay about DDEV-Local by OSTraining](https://ostraining.com/blog/podcasting-blog/randy-ddev/) 2019-02-05
 
 ## Articles on ddevhq.org
