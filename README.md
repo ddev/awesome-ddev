@@ -1,11 +1,12 @@
 # awesome-ddev
-A resource tracking DDEV-Local tips, tricks, solutions, blogs, and services
 
-Remember the [regular ddev docs](https://ddev.readthedocs.io/en/stable/) and [Stack Overflow](https://stackoverflow.com/tags/ddev) and [ddev-contrib](https://github.com/drud/ddev-contrib). [See support in the docs too](https://ddev.readthedocs.io/en/stable/#support).
+A resource tracking DDEV tips, tricks, solutions, blogs, and services.
 
-People all over the world are using the [DDEV-Local](https://github.com/drud/ddev) local development tool in incredibly creative ways. They're blogging about it, finding creative solutions to new challenges, inventing new approaches.
+Remember the [regular DDEV docs](https://ddev.readthedocs.io/en/stable/) and [Stack Overflow](https://stackoverflow.com/tags/ddev) and [ddev-contrib](https://github.com/drud/ddev-contrib). [See support in the docs too](https://ddev.readthedocs.io/en/stable/#support).
 
-This repository is a curated set of links to external resources regarding DDEV-Local.
+People all over the world are using the [DDEV](https://github.com/drud/ddev) local development tool in incredibly creative ways. They're blogging about it, finding creative solutions to new challenges, inventing new approaches.
+
+This repository is a curated set of links to external resources regarding DDEV.
 
 Your contributions are welcome, just open a PR with the items you'd like to add. This will obviously have to be reorganized from time to time, so your suggestions on that are also welcome.
 
@@ -73,7 +74,7 @@ Please don't be offended if your important link was initially left out, just do 
 * [Mediacurrent The Future of DDEV Is Bright: A Discussion with Randy Fay](https://podcasts.apple.com/us/podcast/the-future-of-ddev-is-bright-a-discussion-with-randy-fay/id1469106056?i=1000530177170) 
 * [Interview with rfay about DDEV-Local by OSTraining](https://ostraining.com/blog/podcasting-blog/randy-ddev/) 2019-02-05
 
-## Articles on ddevhq.org
+## Articles on ddev.com
 
 * [Supercharge your DDEV Performance with Mutagen](https://ddev.com/ddev-local/supercharge-your-ddev-performance-with-mutagen/) (@rfay, 2021=07-28)
 * [Why use DDEV-Local instead of rolling your own Docker-based local dev solution?](https://ddev.com/ddev-local/why-use-ddev-local-instead-of-rolling-your-own-docker-based-local-dev-solution/) (@rfay, 2020-12-28)
@@ -183,11 +184,11 @@ Please don't be offended if your important link was initially left out, just do 
 
 ## Support Resources
 
-* [DDEV-Local docs](https://ddev.readthedocs.io/en/stable/)
-* [ddev issue queue](https://github.com/drud/ddev/issues)
-* [Stack Overflow articles tagged with ddev](https://stackoverflow.com/tags/ddev)
+* [DDEV Documentation](https://ddev.readthedocs.io/en/stable/)
+* [DDEV GitHub Issues](https://github.com/drud/ddev/issues)
+* [Stack Overflow articles tagged with `ddev`](https://stackoverflow.com/tags/ddev)
 * [Drupal Slack #ddev channel](https://www.drupal.org/community/contributor-guide/reference-information/talk/tools/slack) This channel still exists for historical purposes, but the community has moved to Discord.  
 * [TYPO3 Slack #ddev channel](https://login.typo3.com/auth/realms/TYPO3/protocol/openid-connect/auth?access_type=online&client_id=my-typo3-org&redirect_uri=https%3A%2F%2Fmy.typo3.org%2Foauth%2Fcallback&response_type=code&scope=openid+email+profile&state=cc3faa28-8944-4cfb-a7bc-2fa17fd96535)
 * [Sulu Slack #ddev channel](https://sulu.io/contact-us)
 * [Twitter #ddev](https://twitter.com/search?f=tweets&vertical=default&q=%23ddev&src=typd)
-* [ddev Discord Server](https://discord.gg/hCZFfAMc5k)
+* [DDEV Discord Server](https://discord.gg/hCZFfAMc5k)
