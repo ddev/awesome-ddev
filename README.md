@@ -46,7 +46,7 @@ Please don't be offended if your important link was initially left out, just do 
 * [Creating a custom PHPUnit command for DDEV](https://www.oliverdavies.uk/blog/creating-custom-phpunit-command-ddev) ([@opdavies](https://github.com/opdavies), 2020-08-28)
 * [Installing / Developing Shopware 6 with ddev](https://susi.dev/ddev-shopware-6/) ([@susannemoog](https://susi.dev/), 2020-07-20)
 * [Fully integrate DDEV and PHPStorm - including Unit Tests with Coverage](https://susi.dev/ddev-phpstorm-integration/) (@susannemoog, 2020-08-22)
-* [Digital Ocean: How to Develop a Drupal 9 Website on Your Local Machine Using Docker and DDEV](https://www.digitalocean.com/community/tutorials/how-to-develop-a-drupal-9-website-on-your-local-machine-using-docker-and-ddev), (2020-08-12, [@davidjguru](https://github.com/davidjguru))  
+* [Digital Ocean: How to Develop a Drupal 9 Website on Your Local Machine Using Docker and DDEV](https://www.digitalocean.com/community/tutorials/how-to-develop-a-drupal-9-website-on-your-local-machine-using-docker-and-ddev), (2020-08-12, [@davidjguru](https://github.com/davidjguru))
 * [Building an automated DDEV-based Drupal environment](https://mariohernandez.io/blog/building-an-automated-ddev-based-drupal-environment/) (@mario 2020-06-29)
 * [Quick profiling with Blackfire.io and DDEV](https://tarekdj.medium.com/quick-profiling-with-blackfire-io-and-ddev-e14e37083100) (2020-07-21)
 * [Deploying your DDEV containers in digitalocean (or aws) with kubernetes](https://alejandromoreno.medium.com/deploying-your-ddev-containers-in-digitalocean-or-aws-with-kubernetes-507df41b4816) [@alex-moreno](https://github.com/alex-moreno)
@@ -71,7 +71,7 @@ Please don't be offended if your important link was initially left out, just do 
 ## Podcasts
 
 * [devMode.fm DDEV for Local Development](https://devmode.fm/episodes/ddev-for-local-development) 2022-09-12
-* [Mediacurrent The Future of DDEV Is Bright: A Discussion with Randy Fay](https://podcasts.apple.com/us/podcast/the-future-of-ddev-is-bright-a-discussion-with-randy-fay/id1469106056?i=1000530177170) 
+* [Mediacurrent The Future of DDEV Is Bright: A Discussion with Randy Fay](https://podcasts.apple.com/us/podcast/the-future-of-ddev-is-bright-a-discussion-with-randy-fay/id1469106056?i=1000530177170)
 * [Interview with rfay about DDEV-Local by OSTraining](https://ostraining.com/blog/podcasting-blog/randy-ddev/) 2019-02-05
 
 ## Articles on ddev.com
@@ -160,15 +160,16 @@ Please don't be offended if your important link was initially left out, just do 
 ## Cloud-based Solutions
 
 * [DrupalPod](https://github.com/shaal/DrupalPod) (@shaal) - Start Drupal contributions with 1 click.
+* [Leveraging the power of GitLab CI and DDEV](https://www.youtube.com/watch?v=wI9SjFXL_ck) - (@jcnventura) - Drupalcamp - Drupal User Group Belgium
 
 ## Tips and Techniques
 
 ## GitHub Actions
 
-* [GitHub action](https://github.com/jonaseberle/github-action-setup-ddev) (Jonas Eberle) start your ddev project 
+* [GitHub action](https://github.com/jonaseberle/github-action-setup-ddev) (Jonas Eberle) start your ddev project
   inside a GitHub action (e.g. for acceptance testing)
-* [Magento 2 installation with DDEV](https://github.com/julienloizelet/github-actions-magento2-ddev-installation/) 
-  (Julien Loizelet) Install a Magento 2 instance in your workflow with a ready-to-use DDEV setup (mainly for testing 
+* [Magento 2 installation with DDEV](https://github.com/julienloizelet/github-actions-magento2-ddev-installation/)
+  (Julien Loizelet) Install a Magento 2 instance in your workflow with a ready-to-use DDEV setup (mainly for testing
   a module).
 
 ## Composer
@@ -187,7 +188,7 @@ Please don't be offended if your important link was initially left out, just do 
 * [DDEV Documentation](https://ddev.readthedocs.io/en/stable/)
 * [DDEV GitHub Issues](https://github.com/drud/ddev/issues)
 * [Stack Overflow articles tagged with `ddev`](https://stackoverflow.com/tags/ddev)
-* [Drupal Slack #ddev channel](https://www.drupal.org/community/contributor-guide/reference-information/talk/tools/slack) This channel still exists for historical purposes, but the community has moved to Discord.  
+* [Drupal Slack #ddev channel](https://www.drupal.org/community/contributor-guide/reference-information/talk/tools/slack) This channel still exists for historical purposes, but the community has moved to Discord.
 * [TYPO3 Slack #ddev channel](https://login.typo3.com/auth/realms/TYPO3/protocol/openid-connect/auth?access_type=online&client_id=my-typo3-org&redirect_uri=https%3A%2F%2Fmy.typo3.org%2Foauth%2Fcallback&response_type=code&scope=openid+email+profile&state=cc3faa28-8944-4cfb-a7bc-2fa17fd96535)
 * [Sulu Slack #ddev channel](https://sulu.io/contact-us)
 * [Twitter #ddev](https://twitter.com/search?f=tweets&vertical=default&q=%23ddev&src=typd)
