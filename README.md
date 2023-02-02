@@ -55,7 +55,6 @@ Please don't be offended if your important link was initially left out, just do 
 * [Set Up Linux DDEV Environments for WordPress and Drupal](https://ostraining.com/blog/tools-blog/setting-up-ddev-in-linux/) (Jorge Montoya). Great step-by-step for Linux users including the Docker install and post-install steps.
 * [Sharing your DDEV-Local site via a public URL using "ddev share" and ngrok](https://www.drupaleasy.com/blogs/ultimike/2019/06/sharing-your-ddev-local-site-public-url-using-ddev-share-and-ngrok) (@ultimike, 2019-07-01)
 * [Tools with Friendly Learning Curve: ddev](https://www.gizra.com/content/friendly-tools-ddev/?utm_campaign=coschedule&utm_source=twitter&utm_medium=webwashnet) (Aron Novak, 2019-06-12)
-* [Migrating from Drupal 6 to Drupal 8 Like a Boss](https://dev.acquia.com/article/migrating-drupal-6-drupal-8-boss) ([@alex-moreno](https://github.com/alex-moreno), 2019-05-10). This gives a great discussion of how two ddev projects can communicate and access each other's database servers, making migrations easy.
 * [BLT and DDEV -- Together!](https://dev.acquia.com/article/blt-and-ddev-together) (Alex Moreno Lopez, 2019-03-19)
 * [Grav: Local Development with ddev](https://learn.getgrav.org/15/webservers-hosting/local-development-with-ddev) ddev can be used for nearly any CMS or web environment; this is an example of using it for [Grav](https://getgrav.org/), a CMS that doesn't have explicit ddev support.
 * [DDEV-Local Web Container Customization](https://ddev.com/ddev-local/ddev-local-web-container-customization-in-v1-8-0/) (rfay, 2019-06-03)
@@ -180,7 +179,7 @@ Please don't be offended if your important link was initially left out, just do 
 
 * [ddev-gitpod-launcher](https://github.com/drud/ddev-gitpod-launcher) (Launch and develop any web project in gitpod using ddev)
 * [vscode-ddev](https://github.com/SimonSiefke/vscode-ddev) (vscode ddev integration)
-* [DDEV VSCode DevContainer Drupal 9 Template](https://github.com/webksde/ddev-vscode-devcontainer-drupal9-template): DDEV VSCode Drupal Development Container: "Start a Drupal VSCode Development Environment with Drupal VSCode Extensions, PHPUnit, XDebug, PHPCS and many more in one command! No more configuration."
+* [DDEV VSCode DevContainer Drupal 9 Template](https://github.com/webksde/ddev-vscode-devcontainer-drupal-template): DDEV VSCode Drupal Development Container: "Start a Drupal VSCode Development Environment with Drupal VSCode Extensions, PHPUnit, XDebug, PHPCS and many more in one command! No more configuration."
 * [Drainpipe](https://github.com/lullabot/drainpipe) and [Drainpipe Dev](https://github.com/lullabot/drainpipe-dev): Drainpipe is a composer package which provides a number of build tool helpers for a Drupal site, including several DDEV integrations for local development and CI testing (includes selenium + chrome + firefox testing).
 
 ## Support Resources
@@ -191,5 +190,5 @@ Please don't be offended if your important link was initially left out, just do 
 * [Drupal Slack #ddev channel](https://www.drupal.org/community/contributor-guide/reference-information/talk/tools/slack) This channel still exists for historical purposes, but the community has moved to Discord.
 * [TYPO3 Slack #ddev channel](https://login.typo3.com/auth/realms/TYPO3/protocol/openid-connect/auth?access_type=online&client_id=my-typo3-org&redirect_uri=https%3A%2F%2Fmy.typo3.org%2Foauth%2Fcallback&response_type=code&scope=openid+email+profile&state=cc3faa28-8944-4cfb-a7bc-2fa17fd96535)
 * [Sulu Slack #ddev channel](https://sulu.io/contact-us)
-* [Twitter #ddev](https://twitter.com/search?f=tweets&vertical=default&q=%23ddev&src=typd)
-* [DDEV Discord Server](https://discord.gg/hCZFfAMc5k)
+* [Twitter #ddev](https://twitter.com/search?q=(%23ddev%20OR%20%40ddevhq)%20&src=typed_query&f=live)
+* [DDEV Discord Server](https://discord.com/invite/hCZFfAMc5k)
