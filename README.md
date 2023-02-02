@@ -190,5 +190,5 @@ Please don't be offended if your important link was initially left out, just do 
 * [Drupal Slack #ddev channel](https://www.drupal.org/community/contributor-guide/reference-information/talk/tools/slack) This channel still exists for historical purposes, but the community has moved to Discord.
 * [TYPO3 Slack #ddev channel](https://login.typo3.com/auth/realms/TYPO3/protocol/openid-connect/auth?access_type=online&client_id=my-typo3-org&redirect_uri=https%3A%2F%2Fmy.typo3.org%2Foauth%2Fcallback&response_type=code&scope=openid+email+profile&state=cc3faa28-8944-4cfb-a7bc-2fa17fd96535)
 * [Sulu Slack #ddev channel](https://sulu.io/contact-us)
-* [Twitter #ddev](https://twitter.com/hashtag/ddev)
+* [Twitter #ddev](https://twitter.com/hashtag/ddev?f=live)
 * [DDEV Discord Server](https://discord.com/invite/hCZFfAMc5k)
