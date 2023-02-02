@@ -2,7 +2,7 @@
 
 A resource tracking DDEV tips, tricks, solutions, blogs, and services.
 
-Remember the [regular DDEV docs](https://ddev.readthedocs.io/en/stable/) and [Stack Overflow](https://stackoverflow.com/tags/ddev) and [ddev-contrib](https://github.com/drud/ddev-contrib). [See support in the docs too](https://ddev.readthedocs.io/en/stable/#support).
+Remember the [regular DDEV docs](https://ddev.readthedocs.io/en/stable/) and [Stack Overflow](https://stackoverflow.com/tags/ddev) and [ddev-contrib](https://github.com/ddev/ddev-contrib). [See support in the docs too](https://ddev.readthedocs.io/en/stable/#support).
 
 People all over the world are using the [DDEV](https://github.com/drud/ddev) local development tool in incredibly creative ways. They're blogging about it, finding creative solutions to new challenges, inventing new approaches.
 
