@@ -4,7 +4,7 @@ A resource tracking DDEV tips, tricks, solutions, blogs, and services.
 
 Remember the [regular DDEV docs](https://ddev.readthedocs.io/en/stable/) and [Stack Overflow](https://stackoverflow.com/tags/ddev) and [ddev-contrib](https://github.com/ddev/ddev-contrib). [See support in the docs too](https://ddev.readthedocs.io/en/stable/#support).
 
-People all over the world are using the [DDEV](https://github.com/drud/ddev) local development tool in incredibly creative ways. They're blogging about it, finding creative solutions to new challenges, inventing new approaches.
+People all over the world are using the [DDEV](https://github.com/ddev/ddev) local development tool in incredibly creative ways. They're blogging about it, finding creative solutions to new challenges, inventing new approaches.
 
 This repository is a curated set of links to external resources regarding DDEV.
 
@@ -178,7 +178,7 @@ Please don't be offended if your important link was initially left out, just do 
 
 ## Tools
 
-* [ddev-gitpod-launcher](https://github.com/drud/ddev-gitpod-launcher) (Launch and develop any web project in gitpod using ddev)
+* [ddev-gitpod-launcher](https://github.com/ddev/ddev-gitpod-launcher) (Launch and develop any web project in gitpod using ddev)
 * [vscode-ddev](https://github.com/SimonSiefke/vscode-ddev) (vscode ddev integration)
 * [DDEV VSCode DevContainer Drupal 9 Template](https://github.com/webksde/ddev-vscode-devcontainer-drupal-template): DDEV VSCode Drupal Development Container: "Start a Drupal VSCode Development Environment with Drupal VSCode Extensions, PHPUnit, XDebug, PHPCS and many more in one command! No more configuration."
 * [Drainpipe](https://github.com/lullabot/drainpipe) and [Drainpipe Dev](https://github.com/lullabot/drainpipe-dev): Drainpipe is a composer package which provides a number of build tool helpers for a Drupal site, including several DDEV integrations for local development and CI testing (includes selenium + chrome + firefox testing).
@@ -186,7 +186,7 @@ Please don't be offended if your important link was initially left out, just do 
 ## Support Resources
 
 * [DDEV Documentation](https://ddev.readthedocs.io/en/stable/)
-* [DDEV GitHub Issues](https://github.com/drud/ddev/issues)
+* [DDEV GitHub Issues](https://github.com/ddev/ddev/issues)
 * [Stack Overflow articles tagged with `ddev`](https://stackoverflow.com/tags/ddev)
 * [Drupal Slack #ddev channel](https://www.drupal.org/community/contributor-guide/reference-information/talk/tools/slack) This channel still exists for historical purposes, but the community has moved to Discord.
 * [TYPO3 Slack #ddev channel](https://login.typo3.com/auth/realms/TYPO3/protocol/openid-connect/auth?access_type=online&client_id=my-typo3-org&redirect_uri=https%3A%2F%2Fmy.typo3.org%2Foauth%2Fcallback&response_type=code&scope=openid+email+profile&state=cc3faa28-8944-4cfb-a7bc-2fa17fd96535)
