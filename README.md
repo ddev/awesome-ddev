@@ -142,6 +142,7 @@ Please don't be offended if your important link was initially left out, just do 
 
 * [Magento 2 Demo Project](https://github.com/netz98/ddev-magento-demo), by netz98 GmbH
 * [Development environment for Magento 2 with DDEV](https://github.com/julienloizelet/ddev-m2) (Julien Loizelet)
+* [Magento 2 Setup including cache watcher & styles watcher](https://github.com/jellesiderius/ddev-magento2-example-project) by Jelle Siderius
 
 ## Craft CMS
 
