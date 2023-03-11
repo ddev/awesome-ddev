@@ -143,6 +143,7 @@ Please don't be offended if your important link was initially left out, just do 
 
 ## Craft CMS
 
+* [Craft CMS 4 infused with Vite, TypeScript, WindiCSS and DDEV](https://github.com/smonist/craft-vite-starter) - Lightning fast development, HMR and a production ready build process. Made possible by [szenario](https://szenario.design/)
 * [A Craft CMS starter project using DDEV](https://github.com/onedarnleyroad/craftcms) for local hosting and Vite for front-end bundling and HM, by [One Darnley Road](https://www.onedarnleyroad.com/)
 * [Easy to use Craft CMS 4 scaffolding project](https://github.com/mikesnoeren/craft) for local Craft CMS development using Vite, Tailwind and AlpineJS, by [Mike Snoeren](https://github.com/mikesnoeren)
 
