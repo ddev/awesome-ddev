@@ -178,7 +178,7 @@ Please don't be offended if your important link was initially left out, just do 
 
 * [ddev-gitpod-launcher](https://github.com/ddev/ddev-gitpod-launcher) (Launch and develop any web project in gitpod using ddev)
 * [vscode-ddev](https://github.com/SimonSiefke/vscode-ddev) (vscode ddev integration)
-* [DDEV VSCode DevContainer Drupal 9 Template](https://github.com/webksde/ddev-vscode-devcontainer-drupal-template): DDEV VSCode Drupal Development Container: "Start a Drupal VSCode Development Environment with Drupal VSCode Extensions, PHPUnit, XDebug, PHPCS and many more in one command! No more configuration."
+* [DDEV Drupal Template With Attached VSCode](https://github.com/webksde/ddev-vscode-devcontainer-drupal-template): "Initialize a ready-to-code Drupal 9/10 CMS DDEV based development container, equipped with preinstalled top-tier development modules, configurations, and an attached VS Code instance. Unlock the full potential of Drupal development by leveraging best-practice Drupal VS-Code extensions within the VS Code environment."
 * [Drainpipe](https://github.com/lullabot/drainpipe) and [Drainpipe Dev](https://github.com/lullabot/drainpipe-dev): Drainpipe is a composer package which provides a number of build tool helpers for a Drupal site, including several DDEV integrations for local development and CI testing (includes selenium + chrome + firefox testing).
 
 ## Support Resources
