@@ -25,6 +25,7 @@ Please don't be offended if your important link was initially left out, just do 
 
 ## Articles
 
+* [DDEV & CaptainHookPHP](https://blog.bitexpert.de/blog/ddev_captainhookphp). [Stephan Hochdörfer](https://phpc.social/@shochdoerfer), 2023-08-04.
 * [How I Switched from Docker Desktop to Colima](https://opensource.com/article/22/9/docker-desktop-colima) [@ultimike](https://twitter.com/ultimike) 2022-09-15
 * [Use VS Code IDE inside a Docker container (DDEV and other)](https://korepov.pro/infobase/vs-code/23). [Alexey Murz Korepov](https://github.com/MurzNN), 2022-08-26.
 * [Install Wordpress Quickly With DDEV (German: Mal eben schnell mit ddev Wordpress installieren))](https://muench.dev/post/2021/12/mal-eben-schnell-mit-ddev-wordpress-installieren/). [Christian Münch](https://muench.dev/ueber-mich/), 2021-12-29.
