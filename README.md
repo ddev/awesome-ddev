@@ -160,6 +160,7 @@ Please don't be offended if your important link was initially left out, just do 
 
 * [DrupalPod](https://github.com/shaal/DrupalPod) (@shaal) - Start Drupal contributions with 1 click.
 * [Leveraging the power of GitLab CI and DDEV](https://www.youtube.com/watch?v=wI9SjFXL_ck) - (@jcnventura) - Drupalcamp - Drupal User Group Belgium
+* [Developing Drupal websites in the cloud using Gitpod](https://capellic.com/2023/12/18/developing-drupal-websites-in-the-cloud-using-gitpod/) (@stephencapellic) - A tutorial based on Capellic's config.
 
 ## Tips and Techniques
 
