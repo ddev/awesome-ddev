@@ -25,6 +25,7 @@ Please don't be offended if your important link was initially left out, just do 
 
 ## Articles
 
+* [Using Xdebug in Neos CMS with DDEV and PhpStorm](https://www.koehnlein.eu/en/blog/2024/xdebug-neos-ddev-phpstorm/) ([Albrecht Köhnlein](https://mastodon.social/@koehnlein), 2024-01-21)
 * [DDEV & CaptainHookPHP](https://blog.bitexpert.de/blog/ddev_captainhookphp). [Stephan Hochdörfer](https://phpc.social/@shochdoerfer), 2023-08-04.
 * [How I Switched from Docker Desktop to Colima](https://opensource.com/article/22/9/docker-desktop-colima) [@ultimike](https://twitter.com/ultimike) 2022-09-15
 * [Use VS Code IDE inside a Docker container (DDEV and other)](https://korepov.pro/infobase/vs-code/23). [Alexey Murz Korepov](https://github.com/MurzNN), 2022-08-26.
