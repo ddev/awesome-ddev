@@ -25,6 +25,7 @@ Please don't be offended if your important link was initially left out, just do 
 
 ## Articles
 
+* [Migrate Codeception tests from local selenium to DDEV selenium add-on](https://www.koehnlein.eu/en/blog/2024/ddev-codeception-selenium/) ([Albrecht Köhnlein](https://mastodon.social/@koehnlein), 2024-02-11)
 * [Using Xdebug in Neos CMS with DDEV and PhpStorm](https://www.koehnlein.eu/en/blog/2024/xdebug-neos-ddev-phpstorm/) ([Albrecht Köhnlein](https://mastodon.social/@koehnlein), 2024-01-21)
 * [DDEV & CaptainHookPHP](https://blog.bitexpert.de/blog/ddev_captainhookphp). [Stephan Hochdörfer](https://phpc.social/@shochdoerfer), 2023-08-04.
 * [How I Switched from Docker Desktop to Colima](https://opensource.com/article/22/9/docker-desktop-colima) [@ultimike](https://twitter.com/ultimike) 2022-09-15
