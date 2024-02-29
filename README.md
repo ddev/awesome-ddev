@@ -59,6 +59,7 @@ Please don't be offended if your important link was initially left out, just do 
 * [Sharing your DDEV-Local site via a public URL using "ddev share" and ngrok](https://www.drupaleasy.com/blogs/ultimike/2019/06/sharing-your-ddev-local-site-public-url-using-ddev-share-and-ngrok) (@ultimike, 2019-07-01)
 * [Tools with Friendly Learning Curve: ddev](https://www.gizra.com/content/friendly-tools-ddev/?utm_campaign=coschedule&utm_source=twitter&utm_medium=webwashnet) (Aron Novak, 2019-06-12)
 * [BLT and DDEV -- Together!](https://dev.acquia.com/article/blt-and-ddev-together) (Alex Moreno Lopez, 2019-03-19)
+* [It's time to migrate from Drupal 7. Let me show you (how to start)](https://www.drupal.org/drupalorg/blog/its-time-to-migrate-from-drupal-7-let-me-show-you-how-to-start) (Alex Moreno Lopez, 2024-02-16)
 * [Grav: Local Development with ddev](https://learn.getgrav.org/15/webservers-hosting/local-development-with-ddev) ddev can be used for nearly any CMS or web environment; this is an example of using it for [Grav](https://getgrav.org/), a CMS that doesn't have explicit ddev support.
 * [DDEV-Local Web Container Customization](https://ddev.com/blog/ddev-local-web-container-customization-in-v1-8-0/) (rfay, 2019-06-03)
 * [DDEV-Local Trusted HTTPS Certificates](https://ddev.com/blog/ddev-local-trusted-https-certificates/) (rfay, 2019-05-23)
